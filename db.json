@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 11,
+      "name": "Sachin Singhgg",
+      "email": "kkamal@gmail.com",
+      "phone": 9811070565
+    },
+    {
+      "id": 12,
+      "name": "Pranav Thakur",
+      "email": "pranav@yopmail.com",
+      "phone": 7482991780
+    },
+    {
+      "id": 13,
+      "name": "Raman Bhalla",
+      "email": "test@gmail.com",
+      "phone": 8368772800
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
